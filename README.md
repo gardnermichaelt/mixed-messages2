@@ -1,21 +1,23 @@
 # Rilke Remix
 --------------
 ## The Goal
-------
+-------
 Take some of Rilke's poems which were translated by multiple translators into english and mix and match lines from them to create new translations.
 
 ## The Translators
-
+-------
 - Robert Bly
 - Stephen Mitchell
 - Damion Searls
 
 ## Poems
+-------
 - Ich finde dich/I find you - Bly/Mitchell
 - Durch den sich Vögel werfen/ What birds plunge through/What birds hurtle through - Mitchell/Searls
 - Da stieg ein Baum/A tree rising/A tree ascended there - Bly/Mitchell
 
 ## Original German
+-------
 <br>
 
 Ich finde dich in allen diesen Dingen,<br>
