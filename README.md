@@ -11,4 +11,12 @@ Take some of Rilke's poems which were translated by multiple translators into en
 
 ## Poems
 - Ich finde dich/I find you - Bly/Mitchell
-- Durch den sich Vogel werfen/What birds fly through - Mitchell/Searls
+- Durch den sich Vogel werfen/ What birds plunge through/What birds hurtle through - Mitchell/Searls
+- Da stieg ein Baum/A tree rising/A tree ascended there - Bly/Mitchell
+
+## Original German
+
+Ich finde dich in allen diesen Dingen,
+denen ich gut und wie ein Bruder bin;
+als Samen sonnst du dich in den geringen
+und in den grossen gibst du gross dich hin.
