@@ -78,5 +78,17 @@ const stephenMitchell = {
     ]
 };
 const damionSearls = {
-    
+    durchDenSich: [
+        'What birds hurtle through is not the familiar sky',
+        'that raises form and shape within you.',
+        '(Out in the open, out there, you are denied',
+        'to yourself and fade, fade farther forever.)',
+
+        'Sky grabs out from us and translates things:',
+        'that you might reach a tree in all its being',
+        'fling inner sky around it, from that sky',
+        'that abides in you. Ring it with measure.',
+        'It will not edge itself. Only the pressure',
+        'in your renouncing makes it truly tree.',
+    ]
 }
