@@ -91,4 +91,69 @@ const damionSearls = {
         'It will not edge itself. Only the pressure',
         'in your renouncing makes it truly tree.',
     ]
+};
+
+const poems = ['durchDenSich', 'ichFindeDich', 'daStiegEinBaum']
+
+const poetsIch = [robertBly, stephenMitchell]
+
+const poetsDurch = [stephenMitchell, damionSearls]
+
+const poetsDa = [robertBly, stephenMitchell]
+
+const getPoem = () => {
+    return poems[Math.floor(Math.random() * 3)];
+};
+
+const getPoetIch = () => {
+    return poetsIch[Math.floor(Math.random() * 2)];
+};
+
+const getPoetDurch = () => {
+    return poetsDurch[Math.floor(Math.random() * 2)];
+};
+
+const getPoetDa = () => {
+    return poetsDa[Math.floor(Math.random() * 2)];
+};
+
+
+const makePoem = () => {
+const poem = getPoem();
+    if (poem === 'durchDenSich') {
+        for (let i = 0; i < 4; i++) {
+            console.log(getPoetDurch().durchDenSich[i]);
+        }
+        console.log(' ');
+        for (let i = 4; i < 10; i++) {
+            console.log(getPoetDurch().durchDenSich[i]);
+        }
+    } else if (poem === 'ichFindeDich') {
+        for (let i = 0; i < 4; i++) {
+            console.log(getPoetIch().ichFindeDich[i]);
+        } 
+        console.log(' ');
+        for (let i = 4; i < 8; i++) {
+            console.log(getPoetIch().ichFindeDich[i]);
+        } 
+    } else if (poem === 'daStiegEinBaum') {
+        for (let i = 0; i < 4; i++) {
+            console.log(getPoetDa().daStiegEinBaum[i]);
+        }
+        console.log(' ');
+        for (let i = 4; i < 8; i++) {
+            console.log(getPoetDa().daStiegEinBaum[i]);
+        }
+        console.log(' ');
+        for (let i = 8; i < 11; i++) {
+            console.log(getPoetDa().daStiegEinBaum[i]);
+        }
+        console.log(' ');
+        for (let i = 11; i < 14; i++) {
+            console.log(getPoetDa().daStiegEinBaum[i]);
+        }
+    }
+
 }
+
+makePoem();
