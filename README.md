@@ -70,7 +70,7 @@ da schufst du ihnen Tempel im Gehör.<br><br>
 
 ## Translations
 -------
-"I find you" by Robert Bly<br>
+### "I find you" by Robert Bly<br><br>
 
 I find you in all these things of the world<br>
 that I love calmly, like a brother;<br>
@@ -84,7 +84,8 @@ and in the treetops like a rising from the dead.<br><br>
 
 -------
 <br>
-"I find you, Lord, in all Things and in all" by Stephen Mitchell<br><br>
+
+### "I find you, Lord, in all Things and in all" by Stephen Mitchell<br><br>
 
 I find you, Lord, in all Things and in all<br>
 my fellow creatures, pulsing with your life;<br>
@@ -98,7 +99,8 @@ and in treetops like a rising from the dead.<br><br>
 
 -------
 <br>
-"What birds plunge through is not the intimate space" by Stephen Mitchell <br><br>
+
+### "What birds plunge through is not the intimate space" by Stephen Mitchell <br><br>
 
 What birds plunge through is not the intimate space<br>
 in which you see all forms intensified.<br>
@@ -114,7 +116,8 @@ in your renouncing is it truly there.<br><br>
 
 -------
 <br>
-"What birds hurtle through is not the familiar sky" by Damion Searls <br><br>
+
+### "What birds hurtle through is not the familiar sky" by Damion Searls <br><br>
 
 What birds hurtle through is not the familiar sky<br>
 that raises form and shape within you.<br>
@@ -130,3 +133,44 @@ in your renouncing makes it truly tree.<br><br>
 
 -------
 <br>
+
+### "A Tree Rising" by Robert Bly <br><br>
+A tree rising. What a pure growing!<br>
+Orpheus is singing! A tree inside the ear!<br>
+Silence, silence. Yet new buildings,<br>
+signals, and changes went on in the silence.<br><br>
+
+Animals created by silence came forward from the clear<br>
+and relaxed forest where their lairs were,<br>
+and it turned out the reason they were so full of silence<br>
+was not cunning, and not terror,<br><br>
+
+it was listening. Growling, yelping, grunting now<br>
+seemed all nonsense to them. And where before<br>
+there was hardly a shed where this listening could go,<br><br>
+
+a rough shelter put up out of brushy longings,<br>
+with an entrance gate whose poles were wobbly,<br>
+you created a temple for them deep inside their ears.<br><br>
+
+-------
+<br>
+
+### "A Tree Ascended There" by Stephen Mitchell <br><br>
+A tree ascended there. Oh pure transcendence!<br>
+Oh Orpheus sings! Oh tall tree in the ear!<br>
+And all things hushed. Yet even in that silence<br>
+a new beginning, beckoning, change appeared.<br><br>
+
+Creatures of stillness crowned from the bright<br>
+unbound forest, out of their lairs and nests;<br>
+and it was not from any dullness, not<br>
+from fear, that they wereso quiet in themselves,<br><br>
+
+but from simply listening. Bellow, roar, shriek<br>
+seemed small inside their hearts. And where there had been<br>
+just a makeshift hut to receive the music,<br><br>
+
+a shelter nailed up out of their darkest longing,<br>
+with an entryway that shuddered in the wind--<br>
+you built a temple deep inside their hearing.<br><br>
