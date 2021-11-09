@@ -74,7 +74,7 @@ da schufst du ihnen Tempel im Gehör.<br><br>
 
 I find you in all these things of the world<br>
 that I love calmly, like a brother;<br>
-in things no one cares for you brood like a saeed;<br>
+in things no one cares for you brood like a seed;<br>
 and to powerful things you give an immense power.<br><br>
 
 Strength plays such a marvelous game--<br>
